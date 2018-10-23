@@ -1,0 +1,33 @@
+/*
+    Author: Christina Tang
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+html {
+    background-color: #000000;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+header, footer, body {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+button, select {
+    width: 20%;
+    align-self: center;
+}
+
+#title {
+    font-size: 30px;
+}
