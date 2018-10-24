@@ -134,6 +134,7 @@
             },
             error: function () {
                 console.log("problem clearing queue");
+                addToQueue();
             }
         });
     }
