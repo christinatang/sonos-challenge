@@ -1,7 +1,7 @@
 ABOUT
 -----
 
-This project is a web application where you can select a year, and a song from that year will automatically play on your Sonos speaker!
+This project is a web application where you can select a year and/or genre and a random song from that year will automatically play on your Sonos speaker!
 
 ![Screenshot](demo.PNG)
 
